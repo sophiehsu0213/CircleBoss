@@ -18,13 +18,15 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/TRTC381_in_Beitou_Station.JPG" width="248" atl="Taiwan MRT">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Taiwan-HighSpeedRail-700T-testrun-2006-0624.jpg" width="273" alt="Taiwan High-speed rail">
         <h2 id="places-need-to-go">Places you have to go</h2>
-        <li>Taipei 101</li>
-        <li>National Palace Museum</li>
-        <li>Taroko Gorge</li>
-        <li>Shilin Night Market</li>
-        <li>Longshan Temple</li>
-        <li>Chimei Museum</li>
-        <li>Kenting Street</li>
+        <ul>
+            <li>Taipei 101</li>
+            <li>National Palace Museum</li>
+            <li>Taroko Gorge</li>
+            <li>Shilin Night Market</li>
+            <li>Longshan Temple</li>
+            <li>Chimei Museum</li>
+            <li>Kenting Street</li>
+        </ul>
     </body>
     <style>
         
